@@ -6,3 +6,5 @@ sudo systemctl enable nginx
 
 
 echo "nginx installed"
+
+#scriot installed
