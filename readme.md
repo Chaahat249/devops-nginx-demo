@@ -2,7 +2,7 @@
 
 ## Intro
 
-#iect helps you install nginx on linux and then show a demo page
+#iect helps you install nginx on linux and then show a demo pagesssss
 
 ## Steps
 
